@@ -7,3 +7,15 @@
 | 5 A 6 | LBLC  | LBLC   | LBLC      | LBLC   | LBLC    |  
 | 6 A 7 | 93L2  | 93L2   | 93L2      | 93L2   | 93L2    |  
 
+```
+using System;
+
+public class HolaMundo
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine ("Hola mundo");
+    }
+
+
+```
