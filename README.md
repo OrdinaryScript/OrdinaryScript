@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7A00BD&vCenter=true&width=435&lines=OrdinaryScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mate+SC&weight=700&size=35&pause=1000&color=7A00BD&vCenter=true&width=435&lines=OrdinaryScript)](https://git.io/typing-svg)
 
 Puedes encontrarme en:
 
